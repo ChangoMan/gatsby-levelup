@@ -15,4 +15,5 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 * Making blog posts, intro to GraphQL
 * https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
 * Explore `/src/pages/index.js`
+* Go to GraphiQL and test queries
 * Look into gatsby-node.js

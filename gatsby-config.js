@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'A Site For Grehg',
-    author: 'Hunter',
+    author: 'Grehgs Boi',
     description: 'A starter blog demonstrating what Grehg can do.',
   },
   pathPrefix: '/gatsby-starter-blog',
