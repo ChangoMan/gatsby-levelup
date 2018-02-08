@@ -1,8 +1,9 @@
 @import "bootstrap/bootstrap.scss";
 
 body {
-    background: #fff;
-    // background: url(../img/bg-legs.jpg) no-repeat top center;
+    // background: #fff;
+    background: url(../img/bg-legs.jpg) no-repeat top center;
+    background-size: cover;
     font-family: helvetica;
 }
 

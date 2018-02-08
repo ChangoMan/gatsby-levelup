@@ -28,6 +28,13 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `sy406zyfbobr`,
+        accessToken: `70d65cec14fa47659282fac74862365025f75078dd6ce98673f9a79bf6a02354`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
