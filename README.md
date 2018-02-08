@@ -17,3 +17,17 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 * Explore `/src/pages/index.js`
 * Go to GraphiQL and test queries
 * Look into gatsby-node.js
+
+## Using A CMS
+
+* https://www.gatsbyjs.org/docs/plugins/  Look at the other source plugins
+* Choosing Contentful
+* Switch to Master branch and run `gatsby develop`
+* Explore changes in GraphiQL
+* Create a new blog post in Contentful
+
+## Publishing
+
+* Discuss various free options, including Github Pages, Surge.sh, and Netlify
+* Demo with Surge.sh
+* Demo with Netlify
