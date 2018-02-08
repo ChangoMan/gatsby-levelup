@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit orci
 
 Duis diam odio, mattis hendrerit ipsum sed, auctor scelerisque enim. Vestibulum laoreet eget risus et sagittis. Fusce mattis orci vitae augue commodo tempor. Phasellus dignissim sapien vel nunc rutrum pretium. Suspendisse potenti. Etiam at orci vel massa dignissim ullamcorper quis eu leo.
 
+![Grehg](./img/grehg-pose.jpg)
+
 Pellentesque dignissim euismod leo, ut finibus ex pretium eu. Proin scelerisque auctor erat, pretium pulvinar urna feugiat a. Curabitur lacinia sagittis odio, quis sagittis turpis vehicula nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse luctus convallis ex, eu sagittis enim pharetra non. In eu nibh sapien. Vivamus magna mauris, dapibus sit amet dolor a, suscipit efficitur tellus.
 
 Phasellus nec urna ac dolor elementum dictum et fermentum nibh. Curabitur commodo magna non urna dignissim eleifend. Cras id nunc vitae nulla egestas ultricies a a nulla. Nulla vel sollicitudin justo. Maecenas consectetur, nulla id laoreet pulvinar, massa neque pulvinar tortor, eu dictum velit nibh vel lectus.

@@ -1,6 +1,9 @@
+@import "bootstrap/bootstrap.scss";
+
 body {
     background: #fff;
-    // background: url(../img/bg-legs.jpg)
+    // background: url(../img/bg-legs.jpg) no-repeat top center;
+    font-family: helvetica;
 }
 
 .site-container {
@@ -10,13 +13,17 @@ body {
 
 .menu {
     padding: 0;
-    margin: 0;
+    margin: 2rem 0;
     list-style: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
     > li {
         display: inline-block;
+        margin: 0;
         > a {
             display: inline-block;
             padding: 1rem;
+            box-shadow: none;
         }
     }
 }

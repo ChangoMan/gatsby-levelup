@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const Header = () => (
   <header className="site-header">
-    <h1 style={{marginTop:0}}>
+    <h1>
       Grehg's Legs
     </h1>
     <nav>
