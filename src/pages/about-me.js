@@ -13,7 +13,8 @@ class AboutMe extends React.Component {
         "I hate him (referring to Eric)",
         "I know jiu jitsu",
         "I will destroy you",
-        "It's Wednesday My Duuudes"
+        "It's Wednesday My Duuudes",
+        "How do you know they're laughing if it's in Japanese?"
       ],
       selectedQuote : ''
     }
